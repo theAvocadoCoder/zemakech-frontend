@@ -1,17 +1,17 @@
 <template>
-  <div class="home">
-    <LandingPage />
+  <div class="home bg-white min-h-screen">
+    <Hero />
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import LandingPage from "@/components/LandingPage.vue";
+import Hero from "@/components/Hero.vue";
 
 export default {
   name: "Home",
   components: {
-    LandingPage,
+    Hero,
   },
 };
 </script>
