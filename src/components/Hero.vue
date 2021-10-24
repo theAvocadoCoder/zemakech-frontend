@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div class="max-h-screen">
     <h1 class="text-zemakech font-extrabold">Zemakech Cuisine</h1>
 
     <p>
