@@ -4,7 +4,6 @@
       flex flex-col
       sticky-top
       bg-zemakech
-      text-black
       font-bold
       h-24
       p-3
